@@ -1,0 +1,35 @@
+# Cisco Packet Tracer — сама программа (не наши проекты)
+Cisco Packet Tracer */
+
+# Visual Studio / C++
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.vcxproj.user
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+
+# Office temp
+~$*
+*.tmp
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Архивы
+*.zip
+*.rar
+*.7z
